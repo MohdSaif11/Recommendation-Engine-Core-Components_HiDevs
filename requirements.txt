@@ -1,1 +1,10 @@
 # Add your project dependencies here
+# Core utilities (optional but standard)
+numpy==1.26.4
+
+# Testing / development 
+pytest==8.2.0
+
+# Code quality 
+flake8==7.0.0
+
